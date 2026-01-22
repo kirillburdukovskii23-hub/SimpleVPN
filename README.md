@@ -1,3 +1,5 @@
+![SimpleVPN](https://github.com/kirillburdukovskii23-hub/SimpleVPN/blob/main/free-icon-vpn-7025391.png)
+
 # SimpleVPN
 
 Надоело что ВПН на ПК платные? Надоело, что нормального ВПН на ПК нету?
@@ -36,6 +38,7 @@ SimpleVPN - название говорит за себя, простой ВПН
 ### Заключение 
 
 Приятного пользования :) 
+
 
 
 
